@@ -1,0 +1,2 @@
+fonction 1:
+moussa à des problèmes en math, il n'arrive pas à retenir le théorème de pythagore, écris une fonction qui permettra à moussa de calculer le côté d'un rectangle s'il il connait la mesure des autres côtés, la fonction devra avoir pour entrée un objet composé des cotés connues ex:({AB:2,BC:6}) puis coté a calculer , example: pythagore({AB:8,BC:6},AC), la fonction doit retourné ceci : "AC = 10"
