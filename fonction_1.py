@@ -1,4 +1,4 @@
-print("*****THEOREME*******\n")
+print("\n*****THEOREME*******\n")
 
 hypo= int(input("Donnez l'hypothenus:\t"))
 c1= int(input('donnez un coté: \t'))
