@@ -4,8 +4,8 @@
 
 def tab_nombre(v)->list:
     nbNeg,nbPos =[],[]
-    nb =0
-    resulSomNbre=0
+    nb, resulSomNbre=0,0
+    
     nb = int(input("Entrez 5 nombre: \t"))
     v.append(nb)
 
